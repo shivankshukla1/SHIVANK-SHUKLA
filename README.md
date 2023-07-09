@@ -1,10 +1,12 @@
-Delployed link - https://main--shivank-shukla-assignment-1.netlify.app/
+
+
+
+# Readme
+
+## Deployment Link
 The project has been deployed on the netlify app
+https://main--shivank-shukla-assignment-1.netlify.app/
 
-
-
-
-# Getting Started with Create React App
 
 This project was created using React and Tailwind Css.
 
